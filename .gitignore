@@ -1,0 +1,5 @@
+# Don't include generated build data
+*build/
+
+# Don't include IDE files
+*.vscode*
